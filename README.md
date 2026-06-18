@@ -20,3 +20,17 @@ Shaurya Shikher Gupta
 ## Version
 
 14.7.1
+
+## Screenshots
+
+### Initial Screen
+![Initial Screen](screenshots/Initial_img.png)
+
+### System Authentication
+![System Authentication](screenshots/System_authentication.png)
+
+### Giving Clearance
+![Giving Clearance](screenshots/giving_clearence.png)
+
+### Final Output
+![Final Output](screenshots/final_output.png)
